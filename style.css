@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+}
+
+.images{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+.choix {
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+h3 {
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.titre{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
